@@ -13,7 +13,7 @@ view their records, how much they see and for what length of time. By empowering
 we can build the future of healthcare together. Swasthya Mitra will be a platform for other
 digital health applications to develop on; users will be able to sign for these applications
 and services which are powered by their health data and secured by smart contracts.
-Swasthya Mitra Solution ​: The Healthcare of Tomorrow
+# Swasthya Mitra Solution ​: The Healthcare of Tomorrow
 ● Dual Blockchain: Swasthya Mitra is built using a dual blockchain structure. The first
 blockchain controls access to health records and is built using Hyperledger Fabric.
 The second blockchain is powered by an ERC20 token on Ethereum and underlies
@@ -117,7 +117,7 @@ tracked and regular and timely notification for vaccines can be provided
 doctor to better predict the disease.
 3.2 Hospital can better manage the medicine stock.
 
-A Better System
+# A Better System
 ● User Control
 ○ In the current healthcare system, patients have their health information
 spread over multiple systems, hospitals, networks and potentially countries.
@@ -151,5 +151,4 @@ the users’ documents shared with them. Issues currently associated with
 interoperability are resolved this way and costs that are associated with the
 transportation of notes currently undertaken by junior clinicians or
 administrative staff are cut down on.
-==============================================================================
-==============================================================================
+
