@@ -88,6 +88,7 @@ history and add prescriptions, medications, referrals, tests and results and vie
 patient's’ history. (iii) The government to view the analysis and schematics (past,
 present and predictions) of a region, to help them identify problem areas and launch
 successful schemes and programmes.
+
 1. BENEFITS FOR GOVERNMENT
 1.1 Data Science : Using the health data of every person , we would provide healthcare
 inferences to the government.Government can use it to design better health schemes
@@ -100,6 +101,7 @@ time data from all over the state. I.e. thereby removing corruption and delays i
 healthcare.
 1.4 Send notifications for ongoing health problems in the area and also for vaccinations
 of child.
+
 2. BENEFITS FOR AN INDIVIDUAL/CITIZENS
 2.1 The entire health history of a person would be stored which would be reflected in
 the Person’s Digital Health Card.
@@ -112,6 +114,7 @@ solutions based on his UID.
 2.5 All DBT related to healthcare would be directly transferred to that account.
 2.6 Newly born babies would be enrolled in and their vaccination schedule could be
 tracked and regular and timely notification for vaccines can be provided
+
 3. BENEFITS FOR HOSPITALS/DOCTORS
 3.1 Doctors would have all previous data of the concerned patient & it can help the
 doctor to better predict the disease.
@@ -119,7 +122,7 @@ doctor to better predict the disease.
 
 # A Better System
 ● User Control
-○ In the current healthcare system, patients have their health information
+  ○ In the current healthcare system, patients have their health information
 spread over multiple systems, hospitals, networks and potentially countries.
 There are multiple fragmented records from the same patient, held at
 different institutions all with their own snapshot of the patient’s health at the
@@ -129,16 +132,18 @@ filter them into the specific categories above to aid data handling. Such a
 categorisation would make the records more accessible and understandable
 for patients and it will also facilitate researchers in searching for the
 information relevant to them
+
 ● Data Security
-○ The Swasthya Mitra system uses a double encryption mechanism on a
+  ○ The Swasthya Mitra system uses a double encryption mechanism on a
 closed, permission-based blockchain. The security of health records is
 secured beyond any centralised data system currently in use. Patient data is
 not accessible directly on the blockchain. The blockchain acts as a pointer to
 where patient data is held in an encrypted format, meaning that anyone
 attempting to intercept patient data will be unable to with the ease that is
 required to access data existing in any central location.
+
 ● Clinical Communication
-○ Along with increased access to emergency information, Swasthya Mitra
+  ○ Along with increased access to emergency information, Swasthya Mitra
 allows clinicians to communicate with each other with ease. When an
 authorised healthcare professional updates a patient health record, the
 system will update that record on Swasthya Mitra . Any clinician with
